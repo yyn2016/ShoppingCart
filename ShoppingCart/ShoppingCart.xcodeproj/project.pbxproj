@@ -26,6 +26,19 @@
 		B81E4EC61E8F85BC00A9EA77 /* MBProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = B81E4EBB1E8F85BC00A9EA77 /* MBProgressHUD.m */; };
 		B81E4ECD1E8F870300A9EA77 /* YYNShoppingModel.m in Sources */ = {isa = PBXBuildFile; fileRef = B81E4ECC1E8F870300A9EA77 /* YYNShoppingModel.m */; };
 		B81E4ED01E8F87A000A9EA77 /* YYNHandleModel.m in Sources */ = {isa = PBXBuildFile; fileRef = B81E4ECF1E8F87A000A9EA77 /* YYNHandleModel.m */; };
+		B81E4ED31E8F889E00A9EA77 /* YYNCartBottomView.m in Sources */ = {isa = PBXBuildFile; fileRef = B81E4ED21E8F889E00A9EA77 /* YYNCartBottomView.m */; };
+		B81E4ED61E8F88B400A9EA77 /* YYNShoppingTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B81E4ED51E8F88B400A9EA77 /* YYNShoppingTableViewCell.m */; };
+		B81E4ED91E8F8B5D00A9EA77 /* YYNShoppingCartViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B81E4ED81E8F8B5D00A9EA77 /* YYNShoppingCartViewController.m */; };
+		B81E4EE61E8F8BE100A9EA77 /* cart_addBtn_highlight@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B81E4EDC1E8F8BE100A9EA77 /* cart_addBtn_highlight@2x.png */; };
+		B81E4EE71E8F8BE100A9EA77 /* cart_addBtn_nomal@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B81E4EDD1E8F8BE100A9EA77 /* cart_addBtn_nomal@2x.png */; };
+		B81E4EE81E8F8BE100A9EA77 /* cart_cutBtn_highlight@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B81E4EDE1E8F8BE100A9EA77 /* cart_cutBtn_highlight@2x.png */; };
+		B81E4EE91E8F8BE100A9EA77 /* cart_cutBtn_nomal@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B81E4EDF1E8F8BE100A9EA77 /* cart_cutBtn_nomal@2x.png */; };
+		B81E4EEA1E8F8BE100A9EA77 /* jishuchengguo_goumaijishu@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B81E4EE01E8F8BE100A9EA77 /* jishuchengguo_goumaijishu@2x.png */; };
+		B81E4EEB1E8F8BE100A9EA77 /* jishuchengguo_goumaijishu@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = B81E4EE11E8F8BE100A9EA77 /* jishuchengguo_goumaijishu@3x.png */; };
+		B81E4EEC1E8F8BE100A9EA77 /* xuanzelianxiren_gou@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B81E4EE21E8F8BE100A9EA77 /* xuanzelianxiren_gou@2x.png */; };
+		B81E4EED1E8F8BE100A9EA77 /* xuanzelianxiren_gou@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = B81E4EE31E8F8BE100A9EA77 /* xuanzelianxiren_gou@3x.png */; };
+		B81E4EEE1E8F8BE100A9EA77 /* xuanzhelianxiren_gou_n@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B81E4EE41E8F8BE100A9EA77 /* xuanzhelianxiren_gou_n@2x.png */; };
+		B81E4EEF1E8F8BE100A9EA77 /* xuanzhelianxiren_gou_n@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = B81E4EE51E8F8BE100A9EA77 /* xuanzhelianxiren_gou_n@3x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -70,6 +83,22 @@
 		B81E4ECC1E8F870300A9EA77 /* YYNShoppingModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YYNShoppingModel.m; sourceTree = "<group>"; };
 		B81E4ECE1E8F87A000A9EA77 /* YYNHandleModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YYNHandleModel.h; sourceTree = "<group>"; };
 		B81E4ECF1E8F87A000A9EA77 /* YYNHandleModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YYNHandleModel.m; sourceTree = "<group>"; };
+		B81E4ED11E8F889E00A9EA77 /* YYNCartBottomView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YYNCartBottomView.h; sourceTree = "<group>"; };
+		B81E4ED21E8F889E00A9EA77 /* YYNCartBottomView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YYNCartBottomView.m; sourceTree = "<group>"; };
+		B81E4ED41E8F88B400A9EA77 /* YYNShoppingTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YYNShoppingTableViewCell.h; sourceTree = "<group>"; };
+		B81E4ED51E8F88B400A9EA77 /* YYNShoppingTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YYNShoppingTableViewCell.m; sourceTree = "<group>"; };
+		B81E4ED71E8F8B5D00A9EA77 /* YYNShoppingCartViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YYNShoppingCartViewController.h; sourceTree = "<group>"; };
+		B81E4ED81E8F8B5D00A9EA77 /* YYNShoppingCartViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YYNShoppingCartViewController.m; sourceTree = "<group>"; };
+		B81E4EDC1E8F8BE100A9EA77 /* cart_addBtn_highlight@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cart_addBtn_highlight@2x.png"; sourceTree = "<group>"; };
+		B81E4EDD1E8F8BE100A9EA77 /* cart_addBtn_nomal@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cart_addBtn_nomal@2x.png"; sourceTree = "<group>"; };
+		B81E4EDE1E8F8BE100A9EA77 /* cart_cutBtn_highlight@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cart_cutBtn_highlight@2x.png"; sourceTree = "<group>"; };
+		B81E4EDF1E8F8BE100A9EA77 /* cart_cutBtn_nomal@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cart_cutBtn_nomal@2x.png"; sourceTree = "<group>"; };
+		B81E4EE01E8F8BE100A9EA77 /* jishuchengguo_goumaijishu@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "jishuchengguo_goumaijishu@2x.png"; sourceTree = "<group>"; };
+		B81E4EE11E8F8BE100A9EA77 /* jishuchengguo_goumaijishu@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "jishuchengguo_goumaijishu@3x.png"; sourceTree = "<group>"; };
+		B81E4EE21E8F8BE100A9EA77 /* xuanzelianxiren_gou@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "xuanzelianxiren_gou@2x.png"; sourceTree = "<group>"; };
+		B81E4EE31E8F8BE100A9EA77 /* xuanzelianxiren_gou@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "xuanzelianxiren_gou@3x.png"; sourceTree = "<group>"; };
+		B81E4EE41E8F8BE100A9EA77 /* xuanzhelianxiren_gou_n@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "xuanzhelianxiren_gou_n@2x.png"; sourceTree = "<group>"; };
+		B81E4EE51E8F8BE100A9EA77 /* xuanzhelianxiren_gou_n@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "xuanzhelianxiren_gou_n@3x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +131,7 @@
 		B81E4E861E8F847900A9EA77 /* ShoppingCart */ = {
 			isa = PBXGroup;
 			children = (
+				B81E4EDA1E8F8BE100A9EA77 /* Resource */,
 				B81E4EC71E8F86E800A9EA77 /* Shopping */,
 				B81E4E9E1E8F85BC00A9EA77 /* Lib */,
 				B81E4E8A1E8F847900A9EA77 /* AppDelegate.h */,
@@ -188,6 +218,8 @@
 		B81E4EC81E8F86E800A9EA77 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
+				B81E4ED71E8F8B5D00A9EA77 /* YYNShoppingCartViewController.h */,
+				B81E4ED81E8F8B5D00A9EA77 /* YYNShoppingCartViewController.m */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -206,8 +238,37 @@
 		B81E4ECA1E8F86E800A9EA77 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				B81E4ED11E8F889E00A9EA77 /* YYNCartBottomView.h */,
+				B81E4ED21E8F889E00A9EA77 /* YYNCartBottomView.m */,
+				B81E4ED41E8F88B400A9EA77 /* YYNShoppingTableViewCell.h */,
+				B81E4ED51E8F88B400A9EA77 /* YYNShoppingTableViewCell.m */,
 			);
 			path = View;
+			sourceTree = "<group>";
+		};
+		B81E4EDA1E8F8BE100A9EA77 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				B81E4EDB1E8F8BE100A9EA77 /* Im */,
+			);
+			path = Resource;
+			sourceTree = "<group>";
+		};
+		B81E4EDB1E8F8BE100A9EA77 /* Im */ = {
+			isa = PBXGroup;
+			children = (
+				B81E4EDC1E8F8BE100A9EA77 /* cart_addBtn_highlight@2x.png */,
+				B81E4EDD1E8F8BE100A9EA77 /* cart_addBtn_nomal@2x.png */,
+				B81E4EDE1E8F8BE100A9EA77 /* cart_cutBtn_highlight@2x.png */,
+				B81E4EDF1E8F8BE100A9EA77 /* cart_cutBtn_nomal@2x.png */,
+				B81E4EE01E8F8BE100A9EA77 /* jishuchengguo_goumaijishu@2x.png */,
+				B81E4EE11E8F8BE100A9EA77 /* jishuchengguo_goumaijishu@3x.png */,
+				B81E4EE21E8F8BE100A9EA77 /* xuanzelianxiren_gou@2x.png */,
+				B81E4EE31E8F8BE100A9EA77 /* xuanzelianxiren_gou@3x.png */,
+				B81E4EE41E8F8BE100A9EA77 /* xuanzhelianxiren_gou_n@2x.png */,
+				B81E4EE51E8F8BE100A9EA77 /* xuanzhelianxiren_gou_n@3x.png */,
+			);
+			path = Im;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -267,9 +328,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B81E4EEB1E8F8BE100A9EA77 /* jishuchengguo_goumaijishu@3x.png in Resources */,
+				B81E4EEA1E8F8BE100A9EA77 /* jishuchengguo_goumaijishu@2x.png in Resources */,
+				B81E4EEF1E8F8BE100A9EA77 /* xuanzhelianxiren_gou_n@3x.png in Resources */,
 				B81E4E971E8F847900A9EA77 /* LaunchScreen.storyboard in Resources */,
+				B81E4EE71E8F8BE100A9EA77 /* cart_addBtn_nomal@2x.png in Resources */,
+				B81E4EEC1E8F8BE100A9EA77 /* xuanzelianxiren_gou@2x.png in Resources */,
 				B81E4E941E8F847900A9EA77 /* Assets.xcassets in Resources */,
+				B81E4EEE1E8F8BE100A9EA77 /* xuanzhelianxiren_gou_n@2x.png in Resources */,
+				B81E4EE61E8F8BE100A9EA77 /* cart_addBtn_highlight@2x.png in Resources */,
 				B81E4E921E8F847900A9EA77 /* Main.storyboard in Resources */,
+				B81E4EE91E8F8BE100A9EA77 /* cart_cutBtn_nomal@2x.png in Resources */,
+				B81E4EED1E8F8BE100A9EA77 /* xuanzelianxiren_gou@3x.png in Resources */,
+				B81E4EE81E8F8BE100A9EA77 /* cart_cutBtn_highlight@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -292,9 +363,12 @@
 				B81E4E891E8F847900A9EA77 /* main.m in Sources */,
 				B81E4EC51E8F85BC00A9EA77 /* ViewController+MASAdditions.m in Sources */,
 				B81E4EC41E8F85BC00A9EA77 /* View+MASAdditions.m in Sources */,
+				B81E4ED61E8F88B400A9EA77 /* YYNShoppingTableViewCell.m in Sources */,
 				B81E4EC01E8F85BC00A9EA77 /* MASViewAttribute.m in Sources */,
 				B81E4EBD1E8F85BC00A9EA77 /* MASConstraint.m in Sources */,
 				B81E4EBE1E8F85BC00A9EA77 /* MASConstraintMaker.m in Sources */,
+				B81E4ED31E8F889E00A9EA77 /* YYNCartBottomView.m in Sources */,
+				B81E4ED91E8F8B5D00A9EA77 /* YYNShoppingCartViewController.m in Sources */,
 				B81E4EC61E8F85BC00A9EA77 /* MBProgressHUD.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -7,6 +7,7 @@
 //
 
 #import "ViewController.h"
+#import "YYNShoppingCartViewController.h"
 
 @interface ViewController ()
 
@@ -19,7 +20,8 @@
     // Do any additional setup after loading the view, typically from a nib.
 }
 - (IBAction)intoShoppingBtnClick:(id)sender {
-    
+    YYNShoppingCartViewController *vc = [[YYNShoppingCartViewController alloc] init];
+    [self.navigationController pushViewController:vc animated:YES];
 }
 
 - (void)didReceiveMemoryWarning {
